@@ -1,0 +1,11 @@
+/Users/andersolsson/Documents/computerSecurityLaboration3/bin/Debug/netcoreapp2.1/computerSecurityLaboration3.deps.json
+/Users/andersolsson/Documents/computerSecurityLaboration3/bin/Debug/netcoreapp2.1/computerSecurityLaboration3.runtimeconfig.json
+/Users/andersolsson/Documents/computerSecurityLaboration3/bin/Debug/netcoreapp2.1/computerSecurityLaboration3.runtimeconfig.dev.json
+/Users/andersolsson/Documents/computerSecurityLaboration3/bin/Debug/netcoreapp2.1/computerSecurityLaboration3.dll
+/Users/andersolsson/Documents/computerSecurityLaboration3/bin/Debug/netcoreapp2.1/computerSecurityLaboration3.pdb
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.csprojAssemblyReference.cache
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.csproj.CoreCompileInputs.cache
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.AssemblyInfoInputs.cache
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.AssemblyInfo.cs
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.dll
+/Users/andersolsson/Documents/computerSecurityLaboration3/obj/Debug/netcoreapp2.1/computerSecurityLaboration3.pdb
